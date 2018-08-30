@@ -125,4 +125,5 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
 }
 });
 
+
  client.login("NDgzOTc1ODQxMzExNzUyMjAy.DmbRWQ.ltFlDK2sckQDC98JpKNm8BxlMsY");
